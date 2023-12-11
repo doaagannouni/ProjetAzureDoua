@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 languages:
 - php
@@ -23,3 +24,6 @@ See [LICENSE](LICENSE).
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
   
+=======
+# ProjetAzure
+>>>>>>> 08a9c954d4fa1f1f542e73e1615efa0d5fee8697
