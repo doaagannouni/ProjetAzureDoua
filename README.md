@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 languages:
 - php
@@ -27,3 +28,6 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 =======
 # ProjetAzure
 >>>>>>> 08a9c954d4fa1f1f542e73e1615efa0d5fee8697
+=======
+# ProjetAzureDoua
+>>>>>>> bc0eef7944a8a5957be874cb51a1d5841e659795
